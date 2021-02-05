@@ -1,1 +1,5 @@
 # TeluskoExamples
+
+Dishes:
+Pasta
+Maggi
